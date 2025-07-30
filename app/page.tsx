@@ -545,7 +545,7 @@ export default function Portfolio() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
               {
-                src: "/images/work1.jpg?height=300&width=300&text=ACE+Induction+Presentation",
+                src: "/images/work1.JPG?height=300&width=300&text=ACE+Induction+Presentation",
                 alt: "ACE Induction Presentation",
                 title: "ACE Induction",
                 subtitle: "Hosting",
